@@ -1,0 +1,4 @@
+starter=soup
+main=pasta
+side=salad
+dessert=fruit

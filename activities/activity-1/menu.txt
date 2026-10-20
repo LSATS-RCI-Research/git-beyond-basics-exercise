@@ -1,0 +1,3 @@
+starter=soup
+daily_special=chai
+side=salad
