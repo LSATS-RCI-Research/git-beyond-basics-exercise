@@ -1,3 +1,3 @@
 service=tea-shop
-deployment=staging
+deployment=production
 region=west
