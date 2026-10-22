@@ -1,7 +1,4 @@
 starter=soup
-
-main=ramen
-
-side=salad
-
-dessert=fruit
+main=risotto
+side=roasted_vegetables
+dessert=gelato
