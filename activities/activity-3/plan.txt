@@ -1,4 +1,4 @@
 starter=soup
 main=risotto
-side=salad
+side=roasted_vegetables
 dessert=fruit
