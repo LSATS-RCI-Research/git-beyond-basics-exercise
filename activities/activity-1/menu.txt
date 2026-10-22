@@ -1,3 +1,3 @@
 starter=soup
-daily_special=chai
+daily_special=iced_matcha
 side=salad
