@@ -4,7 +4,9 @@ Practice resolving conflicts with merge, rebase, and interactive rebase. After c
 
 ## Setup
 
-In GitHub, click on "Use this template" to create a copy of this repository that you own. Then clone the repo to a local directory and open it.
+In GitHub, click on "Use this template" to create a copy of this repository that you own. On the repository creation screen. Make sure to enable "Include all branches".
+
+Then clone the repo to a local directory and open it.
 
 ## Activity 1 — Resolve a merge conflict
 
